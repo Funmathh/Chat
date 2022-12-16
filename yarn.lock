@@ -2924,10 +2924,10 @@
     crypto-browserify "^3.11.0"
     process-es6 "^0.11.2"
 
-"@stream-io/stream-chat-css@^2.10.0":
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/@stream-io/stream-chat-css/-/stream-chat-css-2.10.0.tgz#3b4e7f9cdda2e71995412202bab5a852749d61a4"
-  integrity sha512-xPBFe3UKSPtYMffHP1wmRdH/R5Gg2deG64LSFArB0Wg7e+sv+b2ijZIz80jAcjyvIqhV3wFFsJnroxhNNrb2Ww==
+"@stream-io/stream-chat-css@^3.7.1":
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/@stream-io/stream-chat-css/-/stream-chat-css-3.7.1.tgz#425391953064cc825be34a20ff9bee0a8cf3b76e"
+  integrity sha512-6l6uqog+5hIKU7ARE2n8rOOEoFGKtPqVSBWdDjFv2bMuN70I3kvAcmFrd+k6J0K0dyMbK/E0h1im0q0iADiaww==
 
 "@stream-io/transliterate@^1.5.5":
   version "1.5.5"
